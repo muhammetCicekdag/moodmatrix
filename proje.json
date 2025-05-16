@@ -1,0 +1,3601 @@
+
+ [ {
+    "name": "Kamp Yapma",
+    "location": "Amasya, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Amasya"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Eskişehir, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Eskişehir"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Sakarya, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Sakarya"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Niğde, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Niğde"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Zonguldak, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Zonguldak"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Afyonkarahisar, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Afyonkarahisar"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Siirt, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Siirt"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Kocaeli, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Kocaeli"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Adana, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Adana"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Bingöl, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Bingöl"
+  },
+  {
+    "name": "Bisiklet Turu",
+    "location": "Burdur, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Bisiklet+Turu+Burdur"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Ankara, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Ankara"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Gaziantep, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Gaziantep"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Bayburt, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Bayburt"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Erzincan, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Erzincan"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Mardin, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Mardin"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Aksaray, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Aksaray"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Van, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Van"
+  },
+  {
+    "name": "At Binme",
+    "location": "Samsun, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Samsun"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Kastamonu, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Kastamonu"
+  },
+  {
+    "name": "At Binme",
+    "location": "Samsun, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Samsun"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Samsun, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Samsun"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Osmaniye, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Osmaniye"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Kastamonu, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Kastamonu"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Karabük, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Karabük"
+  },
+  {
+    "name": "At Binme",
+    "location": "Uşak, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Uşak"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Mardin, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Mardin"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Zonguldak, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Zonguldak"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Iğdır, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Iğdır"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Şırnak, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Şırnak"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Bilecik, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Bilecik"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Gaziantep, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Gaziantep"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Kars, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Kars"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Zonguldak, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Zonguldak"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Kırklareli, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Kırklareli"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Isparta, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Isparta"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Rize, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Rize"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Sakarya, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Sakarya"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Muğla, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Muğla"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Ordu, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Ordu"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Kastamonu, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Kastamonu"
+  },
+  {
+    "name": "Bisiklet Turu",
+    "location": "Trabzon, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Bisiklet+Turu+Trabzon"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Trabzon, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Trabzon"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Elazığ, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Elazığ"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Gaziantep, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Gaziantep"
+  },
+  {
+    "name": "At Binme",
+    "location": "Ağrı, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Ağrı"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Kars, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Kars"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Kırşehir, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Kırşehir"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Siirt, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Siirt"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Kırşehir, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Kırşehir"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Erzincan, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Erzincan"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Kayseri, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Kayseri"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Kocaeli, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Kocaeli"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Bayburt, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Bayburt"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Rize, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Rize"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Siirt, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Siirt"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Afyonkarahisar, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Afyonkarahisar"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Afyonkarahisar, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Afyonkarahisar"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Tunceli, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Tunceli"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Sakarya, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Sakarya"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Bayburt, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Bayburt"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Şanlıurfa, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Şanlıurfa"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Batman, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Batman"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Batman, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Batman"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Batman, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Batman"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Bilecik, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Bilecik"
+  },
+  {
+    "name": "At Binme",
+    "location": "Gaziantep, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Gaziantep"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Sakarya, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Sakarya"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Batman, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Batman"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Gaziantep, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Gaziantep"
+  },
+  {
+    "name": "Bisiklet Turu",
+    "location": "Samsun, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Bisiklet+Turu+Samsun"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Bingöl, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Bingöl"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Yalova, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Yalova"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Tekirdağ, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Tekirdağ"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Bolu, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Bolu"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Muş, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Muş"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Bursa, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Bursa"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Malatya, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Malatya"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Hakkari, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Hakkari"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Siirt, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Siirt"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Erzurum, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Erzurum"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Eskişehir, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Eskişehir"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Kahramanmaraş, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Kahramanmaraş"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Çankırı, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Çankırı"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Aksaray, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Aksaray"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Antalya, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Antalya"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Kırklareli, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Kırklareli"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Bolu, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Bolu"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Kütahya, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Kütahya"
+  },
+  {
+    "name": "At Binme",
+    "location": "Şırnak, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Şırnak"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Ankara, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Ankara"
+  },
+  {
+    "name": "At Binme",
+    "location": "Bayburt, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Bayburt"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Edirne, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Edirne"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Adana, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Adana"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Erzurum, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Erzurum"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Adana, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Adana"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Kayseri, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Kayseri"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Antalya, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Antalya"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Isparta, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Isparta"
+  },
+  {
+    "name": "At Binme",
+    "location": "Eskişehir, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Eskişehir"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Kırşehir, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Kırşehir"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Muğla, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Muğla"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "İzmir, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+İzmir"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Adana, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Adana"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Malatya, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Malatya"
+  },
+  {
+    "name": "At Binme",
+    "location": "Niğde, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Niğde"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Kilis, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Kilis"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Kırşehir, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Kırşehir"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Nevşehir, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Nevşehir"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Amasya, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Amasya"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Giresun, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Giresun"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Batman, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Batman"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Niğde, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Niğde"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Trabzon, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Trabzon"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Sakarya, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Sakarya"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Samsun, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Samsun"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Kütahya, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Kütahya"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Kırıkkale, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Kırıkkale"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "İstanbul, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+İstanbul"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Bolu, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Bolu"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Mardin, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Mardin"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Malatya, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Malatya"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Bolu, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Bolu"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Karaman, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Karaman"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Denizli, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Denizli"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "İzmir, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+İzmir"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Aksaray, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Aksaray"
+  },
+  {
+    "name": "Bisiklet Turu",
+    "location": "Van, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Bisiklet+Turu+Van"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Şanlıurfa, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Şanlıurfa"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Malatya, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Malatya"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Trabzon, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Trabzon"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Aydın, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Aydın"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Bingöl, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Bingöl"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Nevşehir, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Nevşehir"
+  },
+  {
+    "name": "At Binme",
+    "location": "Erzincan, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Erzincan"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Ardahan, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Ardahan"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Ankara, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Ankara"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Samsun, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Samsun"
+  },
+  {
+    "name": "Bisiklet Turu",
+    "location": "Bitlis, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Bisiklet+Turu+Bitlis"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Bingöl, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Bingöl"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Muş, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Muş"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Kastamonu, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Kastamonu"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Bitlis, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Bitlis"
+  },
+  {
+    "name": "At Binme",
+    "location": "Niğde, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Niğde"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Sivas, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Sivas"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Mardin, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Mardin"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Hakkari, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Hakkari"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Uşak, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Uşak"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Tokat, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Tokat"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Kırşehir, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Kırşehir"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Karaman, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Karaman"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Kocaeli, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Kocaeli"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Kırklareli, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Kırklareli"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Kilis, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Kilis"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Tokat, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Tokat"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Elazığ, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Elazığ"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Gaziantep, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Gaziantep"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Sinop, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Sinop"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Iğdır, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Iğdır"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Kırşehir, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Kırşehir"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Iğdır, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Iğdır"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Sakarya, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Sakarya"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Gaziantep, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Gaziantep"
+  },
+  {
+    "name": "Bisiklet Turu",
+    "location": "Iğdır, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Bisiklet+Turu+Iğdır"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Rize, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Rize"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Gümüşhane, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Gümüşhane"
+  },
+  {
+    "name": "At Binme",
+    "location": "Diyarbakır, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Diyarbakır"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Kars, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Kars"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Giresun, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Giresun"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Sakarya, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Sakarya"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Edirne, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Edirne"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Elazığ, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Elazığ"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Erzincan, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Erzincan"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Bayburt, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Bayburt"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Trabzon, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Trabzon"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Kastamonu, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Kastamonu"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Manisa, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Manisa"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Zonguldak, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Zonguldak"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Hatay, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Hatay"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Rize, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Rize"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Mardin, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Mardin"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Kırıkkale, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Kırıkkale"
+  },
+  {
+    "name": "At Binme",
+    "location": "Kilis, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Kilis"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Muğla, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Muğla"
+  },
+  {
+    "name": "Bisiklet Turu",
+    "location": "Giresun, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Bisiklet+Turu+Giresun"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "İstanbul, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+İstanbul"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Adıyaman, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Adıyaman"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "İzmir, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+İzmir"
+  },
+  {
+    "name": "At Binme",
+    "location": "Çankırı, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Çankırı"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Düzce, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Düzce"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Tekirdağ, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Tekirdağ"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Kırıkkale, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Kırıkkale"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Nevşehir, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Nevşehir"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Erzurum, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Erzurum"
+  },
+  {
+    "name": "Bisiklet Turu",
+    "location": "Niğde, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Bisiklet+Turu+Niğde"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Muş, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Muş"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Gaziantep, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Gaziantep"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Kırklareli, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Kırklareli"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Elazığ, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Elazığ"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Denizli, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Denizli"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Diyarbakır, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Diyarbakır"
+  },
+  {
+    "name": "Bisiklet Turu",
+    "location": "Kütahya, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Bisiklet+Turu+Kütahya"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Tokat, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Tokat"
+  },
+  {
+    "name": "Bisiklet Turu",
+    "location": "Artvin, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Bisiklet+Turu+Artvin"
+  },
+  {
+    "name": "At Binme",
+    "location": "Artvin, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Artvin"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Aksaray, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Aksaray"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Rize, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Rize"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Manisa, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Manisa"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Bartın, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Bartın"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Tokat, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Tokat"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Giresun, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Giresun"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Adıyaman, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Adıyaman"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Siirt, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Siirt"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Gümüşhane, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Gümüşhane"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Hakkari, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Hakkari"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Kırşehir, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Kırşehir"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Bilecik, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Bilecik"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Gaziantep, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Gaziantep"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Giresun, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Giresun"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Diyarbakır, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Diyarbakır"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Erzurum, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Erzurum"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Sakarya, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Sakarya"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Osmaniye, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Osmaniye"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Düzce, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Düzce"
+  },
+  {
+    "name": "At Binme",
+    "location": "Şanlıurfa, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Şanlıurfa"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Amasya, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Amasya"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Kars, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Kars"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Bayburt, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Bayburt"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Kütahya, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Kütahya"
+  },
+  {
+    "name": "At Binme",
+    "location": "Trabzon, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Trabzon"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Muğla, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Muğla"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Isparta, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Isparta"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Muş, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Muş"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Karaman, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Karaman"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Iğdır, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Iğdır"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Bayburt, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Bayburt"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Mersin, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Mersin"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Sinop, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Sinop"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Kars, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Kars"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Nevşehir, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Nevşehir"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Karaman, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Karaman"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Zonguldak, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Zonguldak"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Konya, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Konya"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Çankırı, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Çankırı"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Balıkesir, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Balıkesir"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Batman, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Batman"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Denizli, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Denizli"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Kayseri, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Kayseri"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Sinop, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Sinop"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Gümüşhane, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Gümüşhane"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Nevşehir, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Nevşehir"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Muğla, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Muğla"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Iğdır, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Iğdır"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Denizli, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Denizli"
+  },
+  {
+    "name": "At Binme",
+    "location": "Erzincan, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Erzincan"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Kırklareli, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Kırklareli"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Isparta, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Isparta"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Erzurum, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Erzurum"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Düzce, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Düzce"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Nevşehir, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Nevşehir"
+  },
+  {
+    "name": "At Binme",
+    "location": "Sakarya, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Sakarya"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Rize, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Rize"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Çanakkale, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Çanakkale"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Amasya, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Amasya"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Kırıkkale, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Kırıkkale"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Batman, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Batman"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Ardahan, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Ardahan"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Tokat, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Tokat"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Iğdır, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Iğdır"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "İzmir, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+İzmir"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Bilecik, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Bilecik"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Batman, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Batman"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Çankırı, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Çankırı"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Kars, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Kars"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Elazığ, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Elazığ"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Burdur, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Burdur"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Giresun, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Giresun"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Bursa, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Bursa"
+  },
+  {
+    "name": "Bisiklet Turu",
+    "location": "Ordu, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Bisiklet+Turu+Ordu"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Tunceli, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Tunceli"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Eskişehir, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Eskişehir"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Gümüşhane, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Gümüşhane"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Muş, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Muş"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Çankırı, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Çankırı"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Erzincan, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Erzincan"
+  },
+  {
+    "name": "At Binme",
+    "location": "Yalova, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Yalova"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Aydın, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Aydın"
+  },
+  {
+    "name": "Bisiklet Turu",
+    "location": "Hatay, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Bisiklet+Turu+Hatay"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Ağrı, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Ağrı"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "İzmir, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+İzmir"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Bitlis, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Bitlis"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Bilecik, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Bilecik"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Kocaeli, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Kocaeli"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Kastamonu, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Kastamonu"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Amasya, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Amasya"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Gümüşhane, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Gümüşhane"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Van, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Van"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Bilecik, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Bilecik"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Bilecik, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Bilecik"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Aydın, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Aydın"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Erzurum, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Erzurum"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Ordu, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Ordu"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Ağrı, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Ağrı"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Bolu, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Bolu"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Afyonkarahisar, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Afyonkarahisar"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Kırıkkale, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Kırıkkale"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Uşak, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Uşak"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "İzmir, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+İzmir"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Hakkari, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Hakkari"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Osmaniye, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Osmaniye"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Muğla, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Muğla"
+  },
+  {
+    "name": "At Binme",
+    "location": "Kilis, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Kilis"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Sivas, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Sivas"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Aydın, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Aydın"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Amasya, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Amasya"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "İstanbul, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+İstanbul"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Artvin, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Artvin"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Bursa, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Bursa"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Elazığ, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Elazığ"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Kırklareli, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Kırklareli"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Karabük, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Karabük"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Kırşehir, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Kırşehir"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Yalova, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Yalova"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Eskişehir, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Eskişehir"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Diyarbakır, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Diyarbakır"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Nevşehir, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Nevşehir"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Kars, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Kars"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Mardin, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Mardin"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Iğdır, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Iğdır"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Burdur, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Burdur"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Balıkesir, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Balıkesir"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Yalova, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Yalova"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Kars, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Kars"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Bayburt, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Bayburt"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Rize, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Rize"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Elazığ, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Elazığ"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Siirt, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Siirt"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Bingöl, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Bingöl"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Kastamonu, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Kastamonu"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Çankırı, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Çankırı"
+  },
+  {
+    "name": "At Binme",
+    "location": "Konya, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Konya"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Iğdır, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Iğdır"
+  },
+  {
+    "name": "Bisiklet Turu",
+    "location": "Malatya, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Bisiklet+Turu+Malatya"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Amasya, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Amasya"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Konya, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Konya"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Şanlıurfa, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Şanlıurfa"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Batman, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Batman"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Bitlis, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Bitlis"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "İstanbul, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+İstanbul"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Bayburt, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Bayburt"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Çorum, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Çorum"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Siirt, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Siirt"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Çorum, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Çorum"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Gümüşhane, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Gümüşhane"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Ankara, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Ankara"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Sinop, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Sinop"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Hatay, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Hatay"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Düzce, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Düzce"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Uşak, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Uşak"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Çanakkale, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Çanakkale"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "Isparta, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+Isparta"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Kilis, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Kilis"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Tokat, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Tokat"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Siirt, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Siirt"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Yozgat, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Yozgat"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Konya, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Konya"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Diyarbakır, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Diyarbakır"
+  },
+  {
+    "name": "Seramik Atölyesi",
+    "location": "Giresun, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Seramik+Atölyesi+Giresun"
+  },
+  {
+    "name": "At Binme",
+    "location": "Kırşehir, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Kırşehir"
+  },
+  {
+    "name": "At Binme",
+    "location": "Şırnak, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Şırnak"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Isparta, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Isparta"
+  },
+  {
+    "name": "Müze Gezisi",
+    "location": "Iğdır, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Müze+Gezisi+Iğdır"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Muş, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Muş"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Muğla, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Muğla"
+  },
+  {
+    "name": "Tekne Turu",
+    "location": "Osmaniye, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tekne+Turu+Osmaniye"
+  },
+  {
+    "name": "Festival Katılımı",
+    "location": "Mardin, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Festival+Katılımı+Mardin"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Manisa, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Manisa"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Düzce, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Düzce"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Düzce, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Düzce"
+  },
+  {
+    "name": "Doğa Yürüyüşü",
+    "location": "Kırıkkale, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Doğa+Yürüyüşü+Kırıkkale"
+  },
+  {
+    "name": "Yerel Pazar Ziyareti",
+    "location": "Adıyaman, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Yerel+Pazar+Ziyareti+Adıyaman"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Kilis, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Kilis"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Kahramanmaraş, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Kahramanmaraş"
+  },
+  {
+    "name": "Kitap Kafede Vakit",
+    "location": "İzmir, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Kitap+Kafede+Vakit+İzmir"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Bingöl, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Bingöl"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Trabzon, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Trabzon"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Erzurum, Turkey",
+    "mood": "Enerjik",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Erzurum"
+  },
+  {
+    "name": "Sanat Galerisi Ziyareti",
+    "location": "Adıyaman, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sanat+Galerisi+Ziyareti+Adıyaman"
+  },
+  {
+    "name": "Konser Etkinliği",
+    "location": "Muş, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Konser+Etkinliği+Muş"
+  },
+  {
+    "name": "Deniz Kenarı Pikniği",
+    "location": "Ankara, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Deniz+Kenarı+Pikniği+Ankara"
+  },
+  {
+    "name": "At Binme",
+    "location": "Eskişehir, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/At+Binme+Eskişehir"
+  },
+  {
+    "name": "Tarihi Mekan Turu",
+    "location": "Sakarya, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Arkadaşlarla",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Tarihi+Mekan+Turu+Sakarya"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Kocaeli, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Kocaeli"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Nevşehir, Turkey",
+    "mood": "Mutlu",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Nevşehir"
+  },
+  {
+    "name": "Kamp Yapma",
+    "location": "Bursa, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Kamp+Yapma+Bursa"
+  },
+  {
+    "name": "Tiyatro Oyunu İzleme",
+    "location": "Bitlis, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Aileyle",
+    "type": "Etkinlik",
+    "map_url": "https://www.google.com/maps/search/Tiyatro+Oyunu+İzleme+Bitlis"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Eskişehir, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Eskişehir"
+  },
+  {
+    "name": "Sokak Sanatı Keşfi",
+    "location": "Antalya, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Kültürel Keşif",
+    "map_url": "https://www.google.com/maps/search/Sokak+Sanatı+Keşfi+Antalya"
+  },
+  {
+    "name": "Botanik Bahçe Ziyareti",
+    "location": "Kayseri, Turkey",
+    "mood": "Yorgun",
+    "budget": "Ücretli",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Botanik+Bahçe+Ziyareti+Kayseri"
+  },
+  {
+    "name": "Sinema Gecesi",
+    "location": "Manisa, Turkey",
+    "mood": "Üzgün",
+    "budget": "Ücretsiz",
+    "with": "Yalnız",
+    "type": "Açık Hava Aktivitesi",
+    "map_url": "https://www.google.com/maps/search/Sinema+Gecesi+Manisa"
+  }]
